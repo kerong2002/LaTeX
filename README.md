@@ -1,4 +1,4 @@
-# Engineering-Mathematics
+# LATEX
 
 | 符號 | 直觀的符號表示 | $LaTeX$ 指令 | 用途 |
 | :--: | :--: | :---: | :---: |
