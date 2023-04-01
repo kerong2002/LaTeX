@@ -1,5 +1,18 @@
 # LATEX
 
+Introduction to LaTeX
+=====================
+
+LaTeX is a typesetting system used for creating documents that require high-quality typesetting, especially for scientific and technical writing. It is based on the TeX typesetting language and is widely used in academia and industry.
+
+# Why use LaTeX?
+
+-   Produces professional-looking documents with consistent formatting
+-   Handles mathematical and scientific notation easily
+-   Supports cross-referencing and bibliographic citations
+-   Can be used to create documents of various types, such as articles, books, presentations, and posters
+
+# Basic Syntax
 | 直觀的符號表示 | $LaTeX$ 指令 | 用途 | 直觀的符號表示 | $LaTeX$ 指令 | 用途 |
 | :--: | :---: | :---: | :--: | :---: | :---: |
 | + | `+` | 加法 | - | `-` | 減法 |
