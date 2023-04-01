@@ -1,48 +1,43 @@
 # Engineering-Mathematics
 
-## LATEX
-| 符號 | 用途 | 指令 |
-| :-: | :-: | :-: |
-| + | 加法 | `+` |
-| - | 減法 | `-` |
-| \\cdot | 乘法 | `\cdot` |
-| \\times | 乘法 | `\times` |
-| / | 除法 | `/` |
-| \\div | 除法 | `\div` |
-| \\pm | 正負號 | `\pm` |
-| \\mp | 負正號 | `\mp` |
-| = | 等於號 | `=` |
-| \\neq | 不等於號 | `\neq` |
-| < | 小於號 | `<` |
-| \\leq | 小於等於號 | `\leq` |
-| > | 大於號 | `>` |
-| \\geq | 大於等於號 | `\geq` |
-| \\sqrt{} | 平方根 | `\sqrt{}` |
-| \\frac{}{} | 分數 | `\frac{}{}` |
-| \\int | 積分 | `\int` |
-| \\iint | 雙重積分 | `\iint` |
-| \\iiint | 三重積分 | `\iiint` |
-| \\oint | 曲線積分 | `\oint` |
-| \\sum | 求和 | `\sum` |
-| \\prod | 求積 | `\prod` |
-| \\infty | 無窮大 | `\infty` |
-| \\partial | 偏導數 | `\partial` |
-| \\nabla | 梯度 | `\nabla` |
-| \\times | 向量積 | `\times` |
-| \\cdot | 點積 | `\cdot` |
-| \\to | 映射符號 | `\to` |
-| \\Rightarrow | 右箭頭 | `\Rightarrow` |
-| \\sim | 相似 | `\sim` |
-| \\cong | 同等於 | `\cong` |
-| \\parallel | 平行 | `\parallel` |
-| \\perp | 垂直 | `\perp` |
-| \\cup | 並集 | `\cup` |
-| \\cap | 交集 | `\cap` |
-| \\subset | 包含於 | `\subset` |
-| \\subseteq | 包含於等於 | `\subseteq` |
-| \\supset | 包含 | `\supset` |
-| \\supseteq | 包含等於 | `\supseteq` |
-| \\not\\subset | 不包含於 | `\not\subset` |
-| \\not\\subseteq | 不包含於等於 | `\not\subseteq` |
-| \\not\\supset | 不包含 | `\not\supset` |
-| \\not\\supseteq | 不包含等於 | `\not\supseteq` |
+| 符號 | 直觀的符號表示 | $LaTeX$ 指令 | 用途 |
+| :--: | :--: | :---: | :---: |
+| + | + | `+` | 加法 |
+| - | - | `-` | 減法 |
+| \\cdot | × | `\cdot` | 乘法 |
+| \\times | × | `\times` | 乘法 |
+| / | ÷ | `/` | 除法 |
+| \\div | ÷ | `\div` | 除法 |
+| \\pm | ± | `\pm` | 正負號 |
+| \\mp | ∓ | `\mp` | 負正號 |
+| = | = | `=` | 等於號 |
+| \\neq | ≠ | `\neq` | 不等於號 |
+| < | < | `<` | 小於號 |
+| \\leq | ≤ | `\leq` | 小於等於號 |
+| > | > | `>` | 大於號 |
+| \\geq | ≥ | `\geq` | 大於等於號 |
+| \\sqrt{} | √{} | `\sqrt{}` | 平方根 |
+| \\frac{}{} | {}/{} | `\frac{}{}` | 分數 |
+| \\int | ∫ | `\int` | 積分 |
+| \\iint | ∬ | `\iint` | 雙重積分 |
+| \\iiint | ∭ | `\iiint` | 三重積分 |
+| \\oint | ∮ | `\oint` | 曲線積分 |
+| \\sum | ∑ | `\sum` | 求和 |
+| \\prod | ∏ | `\prod` | 求積 |
+| \\infty | ∞ | `\infty` | 無窮大 |
+| \\partial | ∂ | `\partial` | 偏導數 |
+| \\nabla | ∇ | `\nabla` | 梯度 |
+| \\times | × | `\times` | 向量積 |
+| \\cdot | · | `\cdot` | 點積 |
+| \\to | → | `\to` | 映射符號 |
+| \\Rightarrow | ⇒ | `\Rightarrow` | 右箭頭 |
+| \\sim | ∼ | `\sim` | 相似 |
+| \\cong | ≅ | `\cong` | 同等於 |
+| \\parallel | ∥ | `\parallel` | 平行 |
+| \\perp | ⊥ | `\perp` | 垂直 |
+| \\cup | ∪ | `\cup` | 並集 |
+| \\cap | ∩ | `\cap` | 交集 |
+| \\subset | ⊂ | `\subset` | 包含於 |
+| \\subseteq | ⊆ | `\subseteq` | 包含於等於 |
+| \\supset | ⊃ | `\supset` | 包含 |
+| \\supseteq | ⊇ | `\supseteq` | 包含等 |
