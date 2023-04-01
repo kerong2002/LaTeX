@@ -2,24 +2,24 @@
 
 | 直觀的符號表示 | $LaTeX$ 指令 | 用途 | 直觀的符號表示 | $LaTeX$ 指令 | 用途 |
 | :--: | :---: | :---: | :--: | :---: | :---: |
-| + | `+` | 加法 | / | `/` | 除法 |
-| - | `-` | 減法 | \\pm | `\pm` | 正負號 |
-| \\cdot | `\cdot` | 乘法 | \\mp | `\mp` | 負正號 |
-| \\times | `\times` | 乘法 | = | `=` | 等於號 |
-| \\div | `\div` | 除法 | \\neq | `\neq` | 不等於號 |
-| < | `<` | 小於號 | \\leq | `\leq` | 小於等於號 |
-| > | `>` | 大於號 | \\geq | `\geq` | 大於等於號 |
-| \\sqrt{} | `\sqrt{}` | 平方根 | \\infty | `\infty` | 無窮大 |
-| \\frac{}{} | `\frac{}{}` | 分數 | \\partial | `\partial` | 偏導數 |
-| \\int | `\int` | 積分 | \\nabla | `\nabla` | 梯度 |
-| \\iint | `\iint` | 雙重積分 | \\times | `\times` | 向量積 |
-| \\iiint | `\iiint` | 三重積分 | \\cdot | `\cdot` | 點積 |
-| \\oint | `\oint` | 曲線積分 | \\to | `\to` | 映射符號 |
-| \\sum | `\sum` | 求和 | \\Rightarrow | `\Rightarrow` | 右箭頭 |
-| \\prod | `\prod` | 求積 | \\sim | `\sim` | 相似 |
-| \\cup | `\cup` | 並集 | \\cong | `\cong` | 同等於 |
-| \\cap | `\cap` | 交集 | \\parallel | `\parallel` | 平行 |
-| \\subset | `\subset` | 包含於 | \\perp | `\perp` | 垂直 |
-| \\subseteq | `\subseteq` | 包含於等於 | / | / | / |
-| \\supset | `\supset` | 包含 | / | / | / |
-| \\supseteq | `\supseteq` | 包含等 | / | / | / |
+| + | `+` | 加法 | - | `-` | 減法 |
+| × | `\cdot` | 乘法 | ÷ | `/` | 除法 |
+| × | `\times` | 乘法 | ÷ | `\div` | 除法 |
+| ± | `\pm` | 正負號 | ∓ | `\mp` | 負正號 |
+| = | `=` | 等於號 | ≠ | `\neq` | 不等於號 |
+| < | `<` | 小於號 | ≤ | `\leq` | 小於等於號 |
+| > | `>` | 大於號 | ≥ | `\geq` | 大於等於號 |
+| √{} | `\sqrt{}` | 平方根 | {}/{} | `\frac{}{}` | 分數 |
+| ∫ | `\int` | 積分 | ∬ | `\iint` | 雙重積分 |
+| ∭ | `\iiint` | 三重積分 | ∮ | `\oint` | 曲線積分 |
+| ∑ | `\sum` | 求和 | ∏ | `\prod` | 求積 |
+| ∞ | `\infty` | 無窮大 | ∂ | `\partial` | 偏導數 |
+| ∇ | `\nabla` | 梯度 | × | `\times` | 向量積 |
+| · | `\cdot` | 點積 | → | `\to` | 映射符號 |
+| ⇒ | `\Rightarrow` | 右箭頭 | ∼ | `\sim` | 相似 |
+| ≅ | `\cong` | 同等於 | ∥ | `\parallel` | 平行 |
+| ⊥ | `\perp` | 垂直 | ∪ | `\cup` | 並集 |
+| ∩ | `\cap` | 交集 | ⊂ | `\subset` | 包含於 |
+| ⊆ | `\subseteq` | 包含於等於 | ⊃ | `\supset` | 包含 |
+| ⊇ | `\supseteq` | 包含等 |
+
